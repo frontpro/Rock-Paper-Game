@@ -1,0 +1,22 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: hotpink;
+}
+img{
+    width: 8rem;
+    height: 8rem;
+}
+.container{
+    display: grid;
+    place-content: center;
+}
+
+
+.choices{
+    display: flex;
+    justify-content: space-between;
+}
+
+h4 img{
+    width: 6rem;
+}
